@@ -1,7 +1,7 @@
 # SwiftDown
 SwiftDown is an app store for Windows 10/7
 
-Its still in development so we will be releasing alpha and then beta and then full release.
+Its still in development so we will be releasing alpha and then beta and then full release. 
 
 Things we are adding now (X means done)  
 Download Over Onion  
