@@ -1,28 +1,22 @@
-<h1>SwiftDown</h1>
+<h1 style="text-align: center;">SwiftDown</h1>
 <h2>SwiftDown is an app store for Windows 10/7 Its still in development so we will be releasing alpha and then beta and then full release.</h2>
-<h2><strong>Things we are adding now (X means done)&nbsp;</strong></h2>
-<h2><strong> Download Over Onion </strong></h2>
-<h2><strong>Dark Mode </strong></h2>
-<h2><strong>Chrome&nbsp;</strong></h2>
-<h2><strong> Discord&nbsp;</strong></h2>
-<h2><strong> EmuArk&nbsp;</strong></h2>
-<h2><strong> Kali Linux&nbsp;</strong></h2>
-<h2><strong> VirtualBox&nbsp;</strong></h2>
-<h2><strong> Steam&nbsp;</strong></h2>
-<h2><strong>Nvxxy Botnet&nbsp;</strong></h2>
-<h2><strong> Payment System&nbsp;</strong></h2>
-<h2><strong> Visual Studio (Code as well)&nbsp;</strong></h2>
-<h2><strong> Ubuntu&nbsp;</strong></h2>
-<h2><strong> AntiPiracyMaker&nbsp;</strong></h2>
-<h2><strong> Blender&nbsp;</strong></h2>
-<h2><strong> Firefox&nbsp;</strong></h2>
-<h2><strong> Opera&nbsp;</strong></h2>
-<h2><strong> Opera GX&nbsp;</strong></h2>
-<h2><strong> Wine </strong></h2>
-<h2><strong>OBS </strong></h2>
-<h2><strong>Spotify Desktop&nbsp;</strong></h2>
-<h2><strong> WireShark&nbsp;</strong></h2>
-<h2><strong> Github Desktop&nbsp;</strong></h2>
-<h2><strong> Tor Browser </strong></h2>
-<h2><strong>Links&nbsp;</strong></h2>
-<h2><strong> @nvxxyovh - @xasecrxzy</strong></h2>
+<ul>
+<li style="text-align: center;"><strong>Things we are adding now (X means done)&nbsp;</strong></li>
+<li style="text-align: center;"><strong> Download Over Onion </strong></li>
+<li style="text-align: center;"><strong>Dark Mode </strong></li>
+<li style="text-align: center;"><strong>Chrome&nbsp;</strong></li>
+<li style="text-align: center;"><strong> Discord&nbsp;</strong></li>
+<li style="text-align: center;"><strong> EmuArk&nbsp;</strong></li>
+<li style="text-align: center;"><strong> Kali Linux&nbsp;</strong></li>
+<li style="text-align: center;"><strong> VirtualBox&nbsp;</strong></li>
+<li style="text-align: center;"><strong> Steam&nbsp;</strong></li>
+<li style="text-align: center;"><strong>Nvxxy Botnet&nbsp;</strong></li>
+<li style="text-align: center;"><strong> Payment System&nbsp;</strong></li>
+<li style="text-align: center;"><strong> Visual Studio (Code as well)&nbsp;</strong></li>
+<li style="text-align: center;"><strong> Ubuntu&nbsp;</strong></li>
+<li style="text-align: center;"><strong> AntiPiracyMaker&nbsp;</strong></li>
+<li style="text-align: center;"><strong> Blender&nbsp;</strong></li>
+<li style="text-align: center;"><strong> Firefox&nbsp;</strong></li>
+<li style="text-align: center;"><strong> Opera&nbsp;</strong></li>
+<li style="text-align: center;"><strong> Opera GX&nbsp;</strong></li>
+</ul>
