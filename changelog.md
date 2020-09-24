@@ -1,7 +1,4 @@
-<h1 style="text-align: center;">Changelog&nbsp;</h1>
-<blockquote>
-<h2 style="text-align: center;">Alpha V0.1</h2>
-</blockquote>
+<h1 style="text-align: center;">Changelog (Alpha v0.1)</h1>
 <h3 style="text-align: center;">Apps Added</h3>
 <ul>
 <li>Oracle VM VirtualBox&nbsp;</li>
@@ -26,7 +23,6 @@
 <ul>
 <li>IPV4 Pinger (By nvxxy, more info in app)</li>
 <li>EmuArk</li>
-<li></li>
 </ul>
 </li>
 </ul>
