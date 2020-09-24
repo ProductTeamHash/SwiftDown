@@ -1,5 +1,5 @@
 # SwiftDown
-SwiftDown is an app store for Windows 10/7
+<div style="text-align: right"> SwiftDown is an app store for Windows 10/7
 
 Its still in development so we will be releasing alpha and then beta and then full release. 
 
@@ -33,3 +33,4 @@ Links
 - @xasecrxzy
   
 License is [here](https://productteamhash.github.io/SwiftDown/LICENSE)
+ </div>
