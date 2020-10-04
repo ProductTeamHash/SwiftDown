@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">Changelog (Alpha v0.2)</h1>
 <p>&nbsp;</p>
-<p style="text-align: center;">If you're on an old version of SwiftDown go to <a href="https://github.com/ProductTeamHash/SwiftDown/releases/tag/alpha-v0.2">https://github.com/ProductTeamHash/SwiftDown/releases/tag/alpha-v0.2</a>&nbsp;to download the new version</p>
+<p style="text-align: center;">If you're on an old version of SwiftDown go to <a href="https://github.com/ProductTeamHash/SwiftDown/releases/tag/alpha-v0.2">https://github.com/ProductTeamHash/SwiftDown/releases/download/alpha-v0.2/SwiftDown.exe</a>&nbsp;to download the new version</p>
 <h3 style="text-align: center;">Apps Added</h3>
 <ul>
 <li>Games/Game Stores
